@@ -36,7 +36,7 @@ public class BatchSendRequest {
      * 消息相关的参数
      * 当前业务类型为"send", 必传
      */
-    private List<MessageParam> messageParam;
+    private List<MessageParam> messageParamList;
 
 
 }
