@@ -31,7 +31,7 @@ public class SendRequest {
     private Long messageTemplateId;
 
     /**
-     * 消息相关的参数】
+     * 消息相关的参数
      * 当前业务类型为"send", 必传
      */
     private MessageParam messageParam;
